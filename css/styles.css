@@ -49,18 +49,6 @@ h3 {
   padding-top: 80px;
 }
 
-.top-cloud {
-  position: absolute;
-  top: 1px;
-  right: 100px;
-}
-
-.bottom-cloud {
-  position: absolute;
-  top: 0;
-  left: 100px;
-  margin: auto;
-}
 
 .skill-row {
   width: 50%;
