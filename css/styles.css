@@ -1,0 +1,142 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  background-color: #EAF6F6;
+}
+
+.intro {
+  margin: auto;
+  width: 50%;
+}
+
+hr {
+  border-top-style: dotted;
+  border-width: thick;
+  border-color: #40514E;
+  width: 3%;
+  border-bottom-style: none;
+  margin: 50px auto;
+}
+
+h1 {
+  font-size: 6rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+
+  font-weight: normal;
+  margin: auto auto 50px auto;
+  font-size: 3rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 80px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 1px;
+  right: 70px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+}
+
+.photu {
+  float: left;
+  margin-right: 30px;
+}
+
+.pic {
+  margin: 50px auto 50px auto;
+  height: 250px;
+}
+
+.Routine {
+  float: right;
+  margin-left: 30px;
+}
+
+.face {
+  float: left;
+  margin-right: 30px;
+  height: 250px;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+  margin-top: 100px;
+}
+
+.end {
+  margin: 50px auto 50px auto;
+  width: 40%;
+}
+.footer-link {
+  margin: 10px 20px;
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.copyright{
+  color: #ffffff;
+}
+
+.btn {
+  padding: 15px  25px ;
+  font-size:20px;
+  font-family: 'Montserrat', sans-serif;
+  width:200px;
+  height:70px;
+  border-width:0;
+  color:#fff;
+  border-color:#599bb3;
+  font-weight:bold;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-left-radius:8px;
+  border-bottom-right-radius:8px;
+  background:linear-gradient(rgba(17, 205, 212, 1), #408c99);
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: linear-gradient(#408c99, rgba(17, 205, 212, 1));
+}
+
+.image{
+
+}
